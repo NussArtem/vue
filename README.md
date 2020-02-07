@@ -1,3 +1,6 @@
 # vue
-# npm i
-# npm run serve
+
+```bat
+npm i
+npm run serve
+```
